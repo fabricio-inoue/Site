@@ -1,0 +1,8 @@
+.Projects {
+  display: flex;
+  width: 100%;
+}
+
+.projectsList {
+  display: flex;
+}
